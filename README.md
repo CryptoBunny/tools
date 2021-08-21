@@ -1,2 +1,2 @@
 # tools
-Scripts and Libraries to help you out!
+Scripts and Libraries I've made to help you out!
